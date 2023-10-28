@@ -13,3 +13,4 @@ void loop()
   digitalWrite(4,HIGH); //amarelo ligado
   delay(1000);
   digitalWrite(4,LOW);
+}
